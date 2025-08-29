@@ -1,0 +1,10 @@
+streamlit==1.21.0
+langchain==0.0.316
+langchain-community  # if using components from langchain_community
+openai==0.28.1
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+faiss-cpu==1.7.4
+tiktoken  # explicitly add, e.g. tiktoken==0.4.0 or latest
+altair==4.0
+protobuf  # helps avoid potential protobuf version issues
