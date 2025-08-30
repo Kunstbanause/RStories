@@ -26,8 +26,6 @@ WICHTIGE EINSCHRÄNKUNGEN:
 - Entferne KEINE Hauptcharaktere (z.B. durch Tod)
 - Der Spieler soll regelmäßig Entscheidungen treffen müssen
 - Die Entscheidungen des Spielers verändern den Verlauf nur leicht oder gar nicht
-- Jeder Sub-Plot hat ein definiertes Ende
-- Es reicht, wenn der Spieler das Gefühl hat, Entscheidungen zu treffen
 
 CHARAKTERE UND ROLLEN:
 - Andre (Hauptmann, 36): Führt die Miliz, moralisch, schützend
@@ -444,10 +442,8 @@ SPIELMECHANIK:
 - Wähle 1 zufälligen Charakter
 - Der Charakter erklärt dem Spieler ein Bedürfnis oder ein Problem
 - Biete 2 Entscheidungsoptionen aus Sicht des Spielers (wörtliche Rede)
-- In jedem zweiten Gespräch reagiert 1 anderer zufälliger Charakter (positiv oder negativ) auf die letzte Entscheidung des Spielers
-- Einzige Entscheidungsoption bei diesen Reaktionen ist "Okay"
-- Wiederhole diesen Ablauf immer weiter
 - Variiere die ausgewählten Charaktere und erfinde ständig neue lösbare Probleme. Sie sollten sich nicht wiederhohlen.
+- Wiederhole keine Situationen aus den TEXTBEISPIELEN oben.
 """
 
 
