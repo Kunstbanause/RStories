@@ -728,7 +728,7 @@ def process_user_input(user_input):
             question=user_input
         )
         
-        llm = ChatOpenAI(model_name="gpt-4.1-mini", temperature=0.7)
+        llm = ChatOpenAI(model_name="gpt-4.1-mini", temperature=1.5)
         
         with get_openai_callback() as cb:
             response = llm.predict(full_prompt)
